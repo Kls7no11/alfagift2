@@ -115,7 +115,7 @@ if($status_create !== "00"){
     $id_ponta = $create_akun['member']['ponta']['accountCard'];
     $no_hp = $create_akun['member']['ponta']['phoneNumber'];
     echo "| Sukses daftar!!! \n";
-    echo "| Nomer hp $no_hp dan password MantapJiwa \n";
+    echo "| Nomer hp $no_hp dan password akun1212 \n";
     echo "| Member Ponta $id_ponta \n";
     echo "| Loading voucher \n";
     sleep(4);
